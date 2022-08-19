@@ -1,4 +1,4 @@
-# LC3 Virtualizator
+# TC3 Virtualizator
 
 This is a simple virtualizator for emulating TC3, a simple program for teaching ASM. You can use 2048 for emulating it.
 
